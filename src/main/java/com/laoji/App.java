@@ -2,7 +2,7 @@ package com.laoji;
 
 /**
  * Hello world!
- *
+ * 启动类
  */
 public class App 
 {
